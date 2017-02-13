@@ -1,0 +1,24 @@
+{
+  "name": "alexa-blebulb",
+  "version": "1.0.0",
+  "description": "An implementation of alexa device ( fake wemos ) for mansaa ble smartbulb",
+  "main": "index.js",
+  "dependencies": {
+    "fauxmojs": "^1.0.1",
+    "mansaa-smartshine": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyasubale/alexa-blebulb.git"
+  },
+  "author": "Shreyas Ubale <shreyasubale@gmail.com> (http://www.devmire.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyasubale/alexa-blebulb/issues"
+  },
+  "homepage": "https://github.com/shreyasubale/alexa-blebulb#readme"
+}
